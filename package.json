@@ -1,0 +1,19 @@
+{
+  "name": "test-auth-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urzt/others.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urzt/others/issues"
+  },
+  "homepage": "https://github.com/urzt/others#readme"
+}
